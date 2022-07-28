@@ -1,3 +1,6 @@
 .background{
   filter: brightness(40%);
 }
+.bgcolor{
+  background-color: #F4FAFD;
+}
